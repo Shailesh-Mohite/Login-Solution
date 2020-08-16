@@ -9,4 +9,8 @@ Simple effective Login solution for embedded systems with hard to crack auto cha
 5. Purely random passwords/pin
 6. Can be used over Serial CLI
 
+# Assumptions
+1. NVM support available on the platform
+2. User LOGIN support available on the platform
+
 # TBD..
