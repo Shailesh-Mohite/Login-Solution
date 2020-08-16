@@ -1,5 +1,5 @@
-# Embedded-Login-Solution
-Simple effective Login solution for embedded systems with hard to crack auto changing password solution
+# Login-Solution
+Simple effective Login solution for embedded systems with hard to crack auto changing password
 
 # Features
 1. Practical for Embedded Systems (even 8-bit)
